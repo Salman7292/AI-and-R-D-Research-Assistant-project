@@ -1,0 +1,6 @@
+flask
+langchain
+langchain-community
+langchain-google-genai
+tavily-python
+python-dotenv
