@@ -1,7 +1,7 @@
 # AI Research Assistant
 
-![AI Research Assistant](static/images/logo.png)
-
+![AI Research Assistant](https://raw.githubusercontent.com/Salman7292/AI-and-R-D-Research-Assistant-project/refs/heads/main/Screenshot%202025-08-29%20173124.png)
+![AI Research Assistant](https://raw.githubusercontent.com/Salman7292/AI-and-R-D-Research-Assistant-project/refs/heads/main/Screenshot%202025-08-29%20173124.png)
 A powerful web-based research assistant that leverages AI to search for factual information from the web and provides comprehensive explanations using advanced language models.
 
 ## Features
